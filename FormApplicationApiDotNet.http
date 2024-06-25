@@ -1,0 +1,6 @@
+@FormApplicationApiDotNet_HostAddress = http://localhost:5179
+
+GET {{FormApplicationApiDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
